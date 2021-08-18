@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @samfed
+- 👀 I’m in love with Javascript
+- 🌱 I’m currently learning React and 
+- 📫 Reach me on thesamfed@gmail.com
